@@ -1,1 +1,1 @@
-## My first React App
+## Planet List with Props
